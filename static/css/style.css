@@ -1,4 +1,4 @@
-html, body {
+body {
   margin: 0;
   padding: 0;
   text-align: center;
@@ -10,6 +10,7 @@ section {
   border-style: inset;
   width: 40%;
   margin: 2px auto;
+  
 }
 
 form {
